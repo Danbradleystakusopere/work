@@ -1,0 +1,17 @@
+.first nav {
+    display: flex;
+    background-color: darkgrey;
+    border: 1px solid black;
+    border-radius: 2px;
+    height: 30px;
+    position: fixed;
+    justify-content: space-evenly;
+    top: 0;
+    left: ;
+    width: 98vw;
+    align-items: center;
+}
+.first a {
+    color: black;
+    text-decoration: none;
+}
